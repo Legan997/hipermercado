@@ -1,0 +1,12 @@
+button {
+    font-family: "Georgia, sans-serif"; /* Cambia el tipo de letra */
+    font-size: 25px; /* Cambia el tamaño de la fuente a 25px */
+    padding: 20px; /* Ajusta el relleno de los botones */
+    background-color: #4CAF50; /* Cambia el color de fondo del botón */
+    color: black; /* Cambia el color del texto del botón */
+    border-radius: 8px; /* Añade bordes redondeados */
+    border: none; /* Elimina el borde del botón */
+}
+button:hover {
+    background-color: #00ffdd; /* Cambia el color de fondo al pasar el cursor sobre el botón */
+}
